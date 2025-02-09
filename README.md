@@ -1,6 +1,6 @@
 ## Olá, me chamo João Mateus!
 - Atualmente trabalho com back-end!
-- Atualmente estudando C, C#.
+- Atualmente estudando Java.
 - Fun fact: Bazinga!
 
 ![Zaguaizo's Stats](https://github-readme-stats.vercel.app/api?username=Zaguaizo&theme=radical&show_icons=true&hide_border=true&count_private=false) ![Zaguaizo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zaguaizo&theme=radical&hide_border=true)
