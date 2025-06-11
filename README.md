@@ -1,5 +1,5 @@
 ## Olá, me chamo João Mateus!
-- Atualmente trabalho com back-end!
+- Interesse principal por Back-End!
 - Atualmente estudando Java.
 - Fun fact: Bazinga!
 
